@@ -1,3 +1,3 @@
 kanbanboard
 ===========
-- collaborators commit using using web page
+- collaborators commit using web page
